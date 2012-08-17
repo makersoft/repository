@@ -4,7 +4,7 @@
 ## Releases
 
     <repository>
-      <id>javanto-releases</id>
+      <id>makersoft-releases</id>
       <url>https://raw.github.com/makersoft/repository/releases</url>
       <releases>
         <enabled>true</enabled>
@@ -17,7 +17,7 @@
 ## Snapshots
 
     <repository>
-      <id>javanto-snapshots</id>
+      <id>makersoft-snapshots</id>
       <url>https://raw.github.com/makersoft/repository/snapshots</url>
       <releases>
         <enabled>false</enabled>
